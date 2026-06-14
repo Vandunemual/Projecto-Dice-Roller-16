@@ -19,5 +19,4 @@ Getting Started
 ---------------
 
 1. Download and run the app.
-# Dice_Roller_16
 # Projecto-Dice-Roller-16
